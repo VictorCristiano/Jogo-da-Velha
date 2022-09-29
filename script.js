@@ -103,3 +103,4 @@ const handleClick = e => {
 startGame()
 
 restartButton.addEventListener('click', startGame)
+
