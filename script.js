@@ -110,4 +110,4 @@ const darkmode = document.getElementById('chk')
 
 darkmode.addEventListener('change', () => {
   document.querySelector('html').classList.toggle('dark-mode')
-}) 
+})
