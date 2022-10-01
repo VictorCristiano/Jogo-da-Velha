@@ -104,3 +104,10 @@ startGame()
 
 restartButton.addEventListener('click', startGame)
 
+// oo input ta com id="chk"  e é pra adcionar a class='.dark-mode'
+
+const darkmode = document.getElementById('chk')
+
+darkmode.addEventListener('change', () => {
+  document.querySelector('html').classList.toggle('dark-mode')
+}) 

@@ -32,7 +32,7 @@ body {
   
 
 } /*button troca*/
-/*
+
 .position{
   display: flex;
   align-items: center;
@@ -76,7 +76,7 @@ background-color: yellow;
 .checkbox:checked + .label .ball{
   transform: translateX(24px);
 }
-*/
+
 
 
 
